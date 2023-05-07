@@ -55,8 +55,14 @@ system-config-printer
 -xfce4-eyes-plugin
 rpmfusion-free-release
 rpmfusion-nonfree-release
+vlc
+ffmpeg
 %end
 # need a bigger /
+%post --nochroot --log=/mnt/sysimage/var/log/kickstart_post_nochroot.log
+dnf -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-38.noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-38.noarch.rpm
+dnf --installroot=/mnt -y --allowerasing install vlc ffmpeg
+%end
 
 %post
 # xfce configuration
@@ -68,7 +74,6 @@ PREFERRED=/usr/bin/startxfce4
 DISPLAYMANAGER=/usr/sbin/lightdm
 EOF
 
-dnf -y --allowerasing install vlc ffmpeg
 
 
 cat >> /etc/rc.d/init.d/livesys << EOF
