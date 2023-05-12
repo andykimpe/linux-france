@@ -1,0 +1,228 @@
+Package: *
+Pin: release a=warty-proposed,n=warty-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=warty-backport,n=warty-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=hoary-proposed,n=hoary-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=hoary-backport,n=hoary-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=dapper-proposed,n=dapper-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=dapper-backport,n=dapper-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=edgy-proposed,n=edgy-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=edgy-backport,n=edgy-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=feisty-proposed,n=feisty-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=feisty-backport,n=feisty-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=gutsy-proposed,n=gutsy-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=gutsy-backport,n=gutsy-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=hardy-proposed,n=hardy-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=hardy-backport,n=hardy-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=intrepid-proposed,n=intrepid-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=intrepid-backport,n=intrepid-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=jaunty-proposed,n=jaunty-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=jaunty-backport,n=jaunty-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=karmic-proposed,n=karmic-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=karmic-backport,n=karmic-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=lucid-proposed,n=lucid-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=lucid-backport,n=lucid-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=maverick-proposed,n=maverick-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=maverick-backport,n=maverick-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=natty-proposed,n=natty-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=natty-backport,n=natty-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=oneiric-proposed,n=oneiric-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=oneiric-backport,n=oneiric-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=precise-proposed,n=jprecise-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=precise-backport,n=precise-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=quantal-proposed,n=quantal-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=quantal-backport,n=quantal-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=raring-proposed,n=raring-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=raring-backport,n=raring-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=saucy-proposed,n=saucy-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=saucy-backport,n=saucy-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=trusty-proposed,n=trusty-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=trusty-backport,n=trusty-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=utopic-proposed,n=utopic-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=utopic-backport,n=utopic-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=vivid-proposed,n=vivid-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=vivid-backport,n=vivid-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=wily-proposed,n=wily-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=wily-backport,n=wily-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=xenial-proposed,n=xenial-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=xenial-backport,n=xenial-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=yakkety-proposed,n=yakkety-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=yakkety-backport,n=yakkety-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=zesty-proposed,n=zesty-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=zesty-backport,n=zesty-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=artful-proposed,n=artful-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=artful-backport,n=artful-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=bionic-proposed,n=bionic-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=bionic-backport,n=bionic-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=cosmic-proposed,n=cosmic-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=cosmic-backport,n=cosmic-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=disco-proposed,n=disco-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=disco-backport,n=disco-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=eoan-proposed,n=eoan-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=eoan-backport,n=eoan-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=focal-proposed,n=focal-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=focal-backport,n=focal-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=groovy-proposed,n=groovy-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=groovy-backport,n=groovy-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=hirsute-proposed,n=hirsute-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=hirsute-backport,n=hirsute-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=impish-proposed,n=impish-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=impish-backport,n=impish-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=jammy-proposed,n=jammy-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=jammy-backport,n=jammy-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=kinetic-proposed,n=kinetic-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=kinetic-backport,n=kinetic-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=lunar-proposed,n=lunar-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=lunar-backport,n=lunar-backport
+Pin-Priority: -10
+Package: *
+Pin: release a=mantic-proposed,n=mantic-proposed
+Pin-Priority: -10
+Package: *
+Pin: release a=mantic-backport,n=mantic-backport
+Pin-Priority: -10
